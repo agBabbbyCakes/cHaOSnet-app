@@ -4,15 +4,15 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src="Octocat.png" className="App-logo" alt="logo" />
+        <img src="/public/cHaOSnetLOGOPlace.png" className="App-logo" alt="logo" />
         <p>
-          GitHub Codespaces <span className="heart">♥️</span> React
-        </p>
-        <p className="small">
-          Edit <code>src/App.js</code> and save to reload.
+          cHaOSNet
         </p>
         <p className='small'>
           This is the first step for ChaosNet
+        </p>
+        <p className="small">
+          build 0.0.0.1
         </p>
         <p>
           <a
