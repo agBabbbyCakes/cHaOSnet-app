@@ -11,6 +11,9 @@ function App() {
         <p className="small">
           Edit <code>src/App.js</code> and save to reload.
         </p>
+        <p className='small'>
+          This is the first step for ChaosNet
+        </p>
         <p>
           <a
             className="App-link"
