@@ -12,7 +12,7 @@ function App() {
           This is the first step for ChaosNet
         </p>
         <p className="small">
-          build 0.0.0.3
+          build 0.0.0.3e
         </p>
         <p>
           <a
