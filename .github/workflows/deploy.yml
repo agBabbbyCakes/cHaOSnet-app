@@ -18,7 +18,7 @@ jobs:
     - name: Install Packages
       run: npm install
     - name: Build page
-      run: npm run build --release
+      run: npm run build
     - name: Deploy to gh-pages
       with:
         deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
