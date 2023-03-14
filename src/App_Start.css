@@ -1,0 +1,23 @@
+
+p {
+    font-size:2vw;
+}
+
+.contentStartPage_A {
+    width:100vw;
+    height:50vh;
+    border-style:solid;
+    border-color:white;
+
+    dipslay:flex;
+    flex-direction: row;
+    text-align:center;
+    justify-items:center;
+}
+
+.contentStartPage_B {
+    width:100%;
+    height:50vh;
+    border-style:dashed;
+    border-color:white;
+}

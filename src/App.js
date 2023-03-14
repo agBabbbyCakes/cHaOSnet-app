@@ -1,12 +1,8 @@
 import './App.css';
-
-
-
-
+import './App_Start.css'
 
 function App() {
   return (
-
 
 
     <div className="App">
@@ -18,18 +14,21 @@ function App() {
         <p className='small'>
           This is the first step for ChaosNet
         </p>
-        Build 0.0.1f
+        Build 0.0.1G
 
+      
         <div className="content">
           <div className="contentStartPage_A">
             <p>This is the content for "contentStartPage_A"</p>
           </div>
+
+          <div className="contentStartPage_B">
+            <p>This is the content for "contentStartPage_B"</p>
+          </div>
        
 
         </div>
-        <p className="small">
-          build 0.0.0.3e
-        </p>
+
         <p>
           <a
             className="App-link"
