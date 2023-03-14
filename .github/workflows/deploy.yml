@@ -24,4 +24,3 @@ jobs:
       with:
         ssh-key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
         folder: ./build
-        commit-message: "CI: Deploy cHaOS webapp"
