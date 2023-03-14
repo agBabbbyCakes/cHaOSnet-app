@@ -1,8 +1,6 @@
 import './App.css';
 import './App_Start.css'
 
-
-
 function App() {
   return (
 
@@ -14,7 +12,7 @@ function App() {
           cHaOSNet
         </p>
         <p className='small'>
-          This is the first step for ChaosNet
+          Start Page
         </p>
         Build 0.0.1G
 
@@ -48,6 +46,7 @@ function App() {
 
   );
 }
+
 
 
 
