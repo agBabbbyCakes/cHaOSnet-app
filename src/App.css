@@ -1,6 +1,7 @@
 
 body {
   background-color: black;
+  
 }
 
 .App {
@@ -13,7 +14,10 @@ body {
 }
 
 .App-header {
-
+  background-image: url(/public/cHaOSnetLOGOPlace.png);
+  background-size:cover;
+  background-attachment: fixed;
+  background-blend-mode: multiply;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
