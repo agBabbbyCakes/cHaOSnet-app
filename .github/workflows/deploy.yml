@@ -22,5 +22,6 @@ jobs:
     - name: Deploy to gh-pages
       uses: JamesIves/github-pages-deploy-action@v4
       with:
-        deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
-        publish_dir: ./build
+        ssh-key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+        folder: ./build
+        commit-message: "CI: Deploy cHaOS webapp"
