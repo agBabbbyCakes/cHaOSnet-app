@@ -20,6 +20,7 @@ jobs:
     - name: Build page
       run: npm run build
     - name: Deploy to gh-pages
+      uses: JamesIves/github-pages-deploy-action@v4
       with:
         deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
         publish_dir: ./build
