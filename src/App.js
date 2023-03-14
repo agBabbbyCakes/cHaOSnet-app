@@ -15,7 +15,7 @@ function App() {
         <p className='small'>
           This is the 3rd step for ChaosNet
         </p>
-        Build 0.0.2
+        Build 0.0.23
 
       
         <div className="content">
