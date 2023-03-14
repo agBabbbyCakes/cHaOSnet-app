@@ -20,8 +20,6 @@ jobs:
     - name: Build page
       run: npm run build --release
     - name: Deploy to gh-pages
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        npm run deploy
-
+      with:
+        deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+        publish_dir: ./build
