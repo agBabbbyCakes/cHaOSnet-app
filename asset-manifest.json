@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.075a967d.css",
-    "main.js": "/static/js/main.c41c5594.js",
-    "static/js/496.8ea89e80.chunk.js": "/static/js/496.8ea89e80.chunk.js",
-    "index.html": "/index.html",
-    "main.075a967d.css.map": "/static/css/main.075a967d.css.map",
-    "main.c41c5594.js.map": "/static/js/main.c41c5594.js.map",
-    "496.8ea89e80.chunk.js.map": "/static/js/496.8ea89e80.chunk.js.map"
+    "main.css": "/cHaOSnet-app/static/css/main.075a967d.css",
+    "main.js": "/cHaOSnet-app/static/js/main.eb128331.js",
+    "static/js/496.550c8600.chunk.js": "/cHaOSnet-app/static/js/496.550c8600.chunk.js",
+    "index.html": "/cHaOSnet-app/index.html",
+    "main.075a967d.css.map": "/cHaOSnet-app/static/css/main.075a967d.css.map",
+    "main.eb128331.js.map": "/cHaOSnet-app/static/js/main.eb128331.js.map",
+    "496.550c8600.chunk.js.map": "/cHaOSnet-app/static/js/496.550c8600.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.075a967d.css",
-    "static/js/main.c41c5594.js"
+    "static/js/main.eb128331.js"
   ]
 }
