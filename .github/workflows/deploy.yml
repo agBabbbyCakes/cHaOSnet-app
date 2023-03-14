@@ -18,6 +18,6 @@ jobs:
     - name: Install Packages
       run: npm install
     - name: Build page
-      run: npm run build
+      run: npm run build --release
     - name: Deploy to gh-pages
       run: npm run deploy
