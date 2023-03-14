@@ -14,7 +14,7 @@ function App() {
           cHaOSNet
         </p>
         <p className='small'>
-          This is the first step for ChaosNet
+          This is the 3rd step for ChaosNet
         </p>
         Build 0.0.1G
 
