@@ -15,7 +15,7 @@ function App() {
         <p className='small'>
           This is the 3rd step for ChaosNet
         </p>
-        Build 0.0.23
+        Build 0.0.24
 
       
         <div className="content">
@@ -25,6 +25,10 @@ function App() {
 
           <div className="contentStartPage_B">
             <p>This is the content for "contentStartPage_B"</p>
+          </div>
+
+          <div className="contentStartPage_C">
+            <p>This is the content for "contentStartPage_C"</p>
           </div>
        
 
