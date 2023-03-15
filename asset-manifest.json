@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/cHaOSnet-app/static/css/main.075a967d.css",
-    "main.js": "/cHaOSnet-app/static/js/main.eb128331.js",
+    "main.js": "/cHaOSnet-app/static/js/main.dedb4757.js",
     "static/js/496.550c8600.chunk.js": "/cHaOSnet-app/static/js/496.550c8600.chunk.js",
     "index.html": "/cHaOSnet-app/index.html",
     "main.075a967d.css.map": "/cHaOSnet-app/static/css/main.075a967d.css.map",
-    "main.eb128331.js.map": "/cHaOSnet-app/static/js/main.eb128331.js.map",
+    "main.dedb4757.js.map": "/cHaOSnet-app/static/js/main.dedb4757.js.map",
     "496.550c8600.chunk.js.map": "/cHaOSnet-app/static/js/496.550c8600.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.075a967d.css",
-    "static/js/main.eb128331.js"
+    "static/js/main.dedb4757.js"
   ]
 }
